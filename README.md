@@ -1,6 +1,6 @@
 ### Hi there, I'm Sezer - aka [vimevim][website] 👋
 
-## I'm a Son, Student, Developer, and little bit of that and little bit of this!!
+## I'm a Son, Student, Coder, Turkologist Candidate, Maker, and little bit of that and little bit of this!!
 
 - 🔭 I'm working on my own projects and looking for a job.
 - 🌱 I'm looking forward to learn new things everyday.
