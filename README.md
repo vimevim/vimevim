@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-vimevim.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/214ztxwfja563ezrqstowhv4a?si=tlrZiIqtSCqlALCThxqIxQ)
+[<img src="https://now-playing-vimevim.vercel.app/api/spotify-playing" alt="vimevim Spotify Playing" width="350" />](https://open.spotify.com/user/214ztxwfja563ezrqstowhv4a?si=tlrZiIqtSCqlALCThxqIxQ)
 
 ### Connect with me:
 
