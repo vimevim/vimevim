@@ -67,10 +67,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+1. ❌ Closed PR [#14](https://github.com/vimevim/vimevim/pull/14) in [vimevim/vimevim](https://github.com/vimevim/vimevim)
+2. 🗣 Commented on [#14](https://github.com/vimevim/vimevim/issues/14) in [vimevim/vimevim](https://github.com/vimevim/vimevim)
+3. ❌ Closed PR [#7](https://github.com/vimevim/vimevim/pull/7) in [vimevim/vimevim](https://github.com/vimevim/vimevim)
+4. 🎉 Merged PR [#6](https://github.com/vimevim/vimevim/pull/6) in [vimevim/vimevim](https://github.com/vimevim/vimevim)
 5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
 
