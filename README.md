@@ -1,12 +1,12 @@
 ### Hi there, I'm Sezer - aka [vimevim][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Son, Student, Developer, and little bit of that and little bit of this!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I'm working on my own projects and looking for a job.
+- 🌱 I'm looking forward to learn new things everyday.
+- 👯 I really would like to work as a team.
+- 🥅 2020 Goals: just do something new
+- ⚡ I really love to listen music and write poetry
 
 
 ### Connect with me:
@@ -36,7 +36,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos - Son Videolar
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Gölgem](https://www.youtube.com/watch?v=KzeQsbepsVY)
@@ -45,7 +45,7 @@
 - [ben ben olacagim](https://www.youtube.com/watch?v=XH0EXVLkm5o)
 <!-- YOUTUBE:END -->
 
-➡️ [for more - daha fazlası için...](https://www.youtube.com/channel/UCPde5OJJjMLP3blQit5PQeg)
+➡️ [for more...](https://www.youtube.com/channel/UCPde5OJJjMLP3blQit5PQeg)
 
 ---
 
