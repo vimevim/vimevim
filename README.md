@@ -49,7 +49,7 @@
 
 ---
 
-
+![](https://komarev.com/ghpvc/?username=vimevim&label=PROFILE+VIEWS&color=red&style=plastic)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimevim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <details>
   <summary>:zap: GitHub Stats</summary>
