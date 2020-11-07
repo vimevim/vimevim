@@ -37,15 +37,12 @@
 ---
 
 ### 📺 Latest YouTube Videos
-<details>
-  <summary>Latest Youtube Videos</summary>
-<!-- YOUTUBE:START -->
+
 - [Gölgem](https://www.youtube.com/watch?v=KzeQsbepsVY)
 - [İsmail Abi Gibiydim](https://www.youtube.com/watch?v=q2QVPxBghGY)
 - [Nefeslerimde Yandı](https://www.youtube.com/watch?v=k9a4fSL7pb0)
 - [ben ben olacagim](https://www.youtube.com/watch?v=XH0EXVLkm5o)
-<!-- YOUTUBE:END -->
-</details>
+
 ➡️ [for more...](https://www.youtube.com/channel/UCPde5OJJjMLP3blQit5PQeg)
 
 ---
