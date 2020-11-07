@@ -37,7 +37,7 @@
 ---
 
 ### 📺 Latest YouTube Videos
-<detail>
+<details>
   <summary>Latest Youtube Videos</summary>
 <!-- YOUTUBE:START -->
 - [Gölgem](https://www.youtube.com/watch?v=KzeQsbepsVY)
