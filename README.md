@@ -37,26 +37,23 @@
 ---
 
 ### 📺 Latest YouTube Videos
-
+<detail>
+  <summary>Latest Youtube Videos</summary>
 <!-- YOUTUBE:START -->
 - [Gölgem](https://www.youtube.com/watch?v=KzeQsbepsVY)
 - [İsmail Abi Gibiydim](https://www.youtube.com/watch?v=q2QVPxBghGY)
 - [Nefeslerimde Yandı](https://www.youtube.com/watch?v=k9a4fSL7pb0)
 - [ben ben olacagim](https://www.youtube.com/watch?v=XH0EXVLkm5o)
 <!-- YOUTUBE:END -->
-
+</details>
 ➡️ [for more...](https://www.youtube.com/channel/UCPde5OJJjMLP3blQit5PQeg)
 
 ---
 ![](https://komarev.com/ghpvc/?username=vimevim&label=PROFILE+VIEWS&color=red&style=plastic)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimevim)](https://github.com/vimevim/github-readme-stats)
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="vimevim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vimevim&show_icons=true&hide_border=true" />
-
-</details>
+ <img align="left" alt="vimevim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vimevim&show_icons=true&hide_border=true" />
 
 [website]: https://hasansezertasan.com
 [twitter]: https://twitter.com/vimevim
