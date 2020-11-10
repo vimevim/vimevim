@@ -6,7 +6,7 @@
 - 🌱 I'm looking forward to learn new things everyday.
 - 👯 I really would like to work as a team.
 - 🥅 2020 Goals: just do something new
-- ⚡ I really love to listen music and write poetry
+- ⚡ I really love to write, i write code, i write story, i write poetry and i draw but... not well
 
 
 ### Connect with me:
