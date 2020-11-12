@@ -36,6 +36,8 @@
 
 [<img align="left" alt="Mess+" width="26px" src="https://github.com/vimevim/mess-/blob/master/mess%2B.png" />](https://github.com/vimevim/mess)
 [<img align="left" alt="Ctrl+" width="26px" src="https://github.com/vimevim/ctrl-plus/blob/master/ctrl%2B.png" />](https://github.com/vimevim/ctrl-plus)
+[<img align="left" alt="Mess+" width="26px" src="https://github.com/vimevim/Panik-Rehberi/blob/main/panik/www/img/logo.png" />](https://github.com/vimevim/Panik-Rehberi)
+
 <br />
 <br />
 
