@@ -33,7 +33,7 @@
 <br />
 ### Projects:
 
-<img align="left" alt="Mess+" width="26px" src="" />
+<img align="left" alt="Mess+" width="26px" src="https://github.com/vimevim/mess-/blob/master/mess%2B.png" />
 
 <br />
 <br />
