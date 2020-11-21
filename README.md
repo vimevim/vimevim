@@ -59,6 +59,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimevim)](https://github.com/vimevim/github-readme-stats)
 
  <img align="left" alt="vimevim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vimevim&show_icons=true&hide_border=true" />
+ - [for details](https://octolife.now.sh/vimevim)
 
 [website]: https://hasansezertasan.com
 [twitter]: https://twitter.com/vimevim
