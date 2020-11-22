@@ -3,9 +3,9 @@
 ## I'm a Student, Coder, Maker, Turkologist Candidate, and a little bit of that and a little bit of this!!
 
 - 🔭 I'm working on my own projects.
-- 🌱 I'm currently learning everything but i need a job to master on something.
+- 🌱 I'm currently learning deep learning and python.
 - 👯 I really would like to work as a team.
-- 🥅 2020 Goals: just do something new
+- 🥅 2020 Goals: just do something new.
 - ⚡ I really love to write, i write code, i write stories, i write poetries and i draw but... not well
 - [for details](https://octolife.now.sh/vimevim)
 
