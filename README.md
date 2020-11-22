@@ -16,7 +16,7 @@
 [<img align="left" alt="vimevim | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="vimevim | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vimevim | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="vimevim | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="vimevim | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][https://www.kaggle.com/hasansezertaan]
 
 <br />
 
@@ -66,7 +66,6 @@
 [twitter]: https://twitter.com/vimevim
 [youtube]: https://www.youtube.com/channel/UCPde5OJJjMLP3blQit5PQeg
 [instagram]: https://www.instagram.com/hasansezertasan/
-[kaggle] : https://www.kaggle.com/hasansezertaan
 [linkedin]: https://www.linkedin.com/in/hasansezertasan/
 [webdevplaylist]: https://hasansezertasan.comt
 [jsplaylist]: https://hasansezertasan.com
