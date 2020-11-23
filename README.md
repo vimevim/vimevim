@@ -55,6 +55,7 @@
 ➡️ [for more...](https://www.youtube.com/channel/UCPde5OJJjMLP3blQit5PQeg)
 
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=vimevim&hide_title=true&hide_border=true&langs_count=5)
 <hr>
 
 <p align=center>
