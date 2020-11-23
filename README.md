@@ -55,6 +55,10 @@
 <img align="left" alt=".NET" width="26px" src="https://camo.githubusercontent.com/f283f4a1c87ced7aad208eaa1d239488e7971752ca9e5d01bd629526a204b2bf/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2d776f72646d61726b2e737667" />
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimevim&show_icons=true&locale=en&layout=compact" alt="vimevim" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimevim&show_icons=true&locale=en" alt="vimevim" /></p>
+
 ### Projects:
 
 [<img align="left" alt="Mess+" width="26px" src="https://github.com/vimevim/mess-/blob/master/mess%2B.fw2.png" />](https://github.com/vimevim/mess-)
