@@ -31,7 +31,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<img align="left" alt=".NET" width="26px" src="https://camo.githubusercontent.com/f283f4a1c87ced7aad208eaa1d239488e7971752ca9e5d01bd629526a204b2bf/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2d776f72646d61726b2e737667" />
 <br />
 
 ### Projects:
