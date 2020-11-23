@@ -18,7 +18,7 @@
 [<img align="left" alt="vimevim | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="vimevim | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](https://www.kaggle.com/hasansezertaan)
 
----
+<br>
 
 ### Languages and Tools:
 
@@ -60,7 +60,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimevim)](https://github.com/vimevim/github-readme-stats)
 
  <img align="left" alt="vimevim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vimevim&show_icons=true&hide_border=true" />
-<br/>
+---
 <h2 align="center">Repositories</h2>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/vimevim/vimevim" title="vimevim"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=vimevim&theme=gotham"></a>
