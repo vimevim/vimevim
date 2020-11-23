@@ -1,4 +1,4 @@
-### Hi there, I'm Sezer - aka [vimevim][website] 👋
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="Hi there, I'm Sezer - aka [vimevim]" title="Hi there, I'm Sezer - aka [vimevim]"/>](https://hasansezertasan.com)
 
 ## I'm a Student, Coder, Maker, Turkologist Candidate, and a little bit of that and a little bit of this!!
 
