@@ -57,9 +57,10 @@
 ---
 ![](https://komarev.com/ghpvc/?username=vimevim&label=PROFILE+VIEWS&color=red&style=plastic)
 ---
-[!][Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimevim)](https://github.com/vimevim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimevim)](https://github.com/vimevim/github-readme-stats)
 
  <img align="left" alt="vimevim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vimevim&show_icons=true&hide_border=true" />
+ <br>
 ---
 <h2 align="center">Repositories</h2>
 <p width="100%" align="center">
