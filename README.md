@@ -54,12 +54,7 @@
 
 ➡️ [for more...](https://www.youtube.com/channel/UCPde5OJJjMLP3blQit5PQeg)
 
----
-<h2 align="center">Repositories</h2>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/vimevim/vimevim" title="vimevim"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=vimevim&theme=gotham"></a>
-  <a align="left" href="https://github.com/vimevim/vimevim" title="vimevim"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=vimevim&theme=gotham"></a>
-</p>
+
 ---
 ![](https://komarev.com/ghpvc/?username=vimevim&label=PROFILE+VIEWS&color=red&style=plastic)
 ---
@@ -67,7 +62,12 @@
 
  <img align="left" alt="vimevim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vimevim&show_icons=true&hide_border=true" />
  <br>
-
+---
+<h2 align="center">Repositories</h2>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/vimevim/vimevim" title="vimevim"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=vimevim&theme=gotham"></a>
+  <a align="left" href="https://github.com/vimevim/vimevim" title="vimevim"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=vimevim&theme=gotham"></a>
+</p>
 
 [website]: https://hasansezertasan.com
 [twitter]: https://twitter.com/vimevim
