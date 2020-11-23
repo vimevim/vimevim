@@ -54,6 +54,7 @@
 
 ➡️ [for more...](https://www.youtube.com/channel/UCPde5OJJjMLP3blQit5PQeg)
 
+<br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/214ztxwfja563ezrqstowhv4a)
 
 <hr>
 
