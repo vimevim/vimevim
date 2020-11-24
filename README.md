@@ -72,7 +72,8 @@
 
 ➡️ [for more...](https://www.youtube.com/channel/UCPde5OJJjMLP3blQit5PQeg)
 
-
+<hr>
+![Chart not found](https://raw.githubusercontent.com/vimevim/vimevim/master/charts/bar_graph.png) 
 <hr>
 
 <p align=center>
