@@ -30,34 +30,27 @@
 
 ### Languages and Tools:
 <p align="left"> 
-  <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="csharp" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="dotnet" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg"  />
+<img align="left" alt="unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/> 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="apachecordova" width="26px" src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg"/> 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px"src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python"/> 
-<img align="left" alt="C#" width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="python"/> 
+<img align="left" alt="Python" width="26px"src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" /> 
+  <img align="left" alt="tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt=".NET" width="26px" src="https://camo.githubusercontent.com/f283f4a1c87ced7aad208eaa1d239488e7971752ca9e5d01bd629526a204b2bf/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2d776f72646d61726b2e737667" />
+<img align="left" alt="arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
+<img align="left" alt="blender" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg"/> 
+<img align="left" alt="xd" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />  
+<img align="left" alt="illustrator"  width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"/>
+<img align="left" alt="photoshop" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" />
+</p>
 <br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimevim&show_icons=true&locale=en&layout=compact" alt="vimevim" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimevim&show_icons=true&locale=en" alt="vimevim" /></p>
 
 ### Projects:
 
