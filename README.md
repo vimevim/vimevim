@@ -36,9 +36,9 @@
 <img align="left" alt="dotnet" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg"  />
 <img align="left" alt="unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/> 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="apachecordova" width="26px" src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg"/> 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="apachecordova" width="26px" src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg"/> 
 <img align="left" alt="Python" width="26px"src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" /> 
   <img align="left" alt="tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
