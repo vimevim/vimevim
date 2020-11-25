@@ -76,11 +76,10 @@
 
 <p align=center>
   <a href="https://github.com/vimevim/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=vimevim&show_icons=true&theme=gotham">
+    <img height=175 align="left" src="https://github-readme-stats.vercel.app/api?username=vimevim&show_icons=true&theme=gotham">
   </a>
-  <p align=center>
   <a href="https://github.com/vimevim/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimevim&langs_count=9&theme=gotham" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimevim&langs_count=9&theme=gotham" />
 </a>
 </p>
 
