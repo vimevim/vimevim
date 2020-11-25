@@ -2,9 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimevim&label=Profile%20views&color=0e75b6&style=flat" alt="vimevim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimevim" alt="vimevim" /></a> </p>
+<hr>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214ztxwfja563ezrqstowhv4a&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <p align="left"> <a href="https://twitter.com/vimevim" target="blank"><img src="https://img.shields.io/twitter/follow/vimevim?logo=twitter&style=for-the-badge" alt="vimevim" /></a> </p><br>
-
+<hr>
 ## I'm a Student, Coder, Maker, Turkologist Candidate, and a little bit of that and a little bit of this!!
 - ⚡ Fun fact **I really love to write, i write code, i write stories, i write poetries and i draw but... not well**
 - 🔭 I'm working on my own projects.
