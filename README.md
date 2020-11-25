@@ -101,8 +101,8 @@
   <a align="left" href="https://github.com/vimevim/ctrl-plus" title="vimevim"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=ctrl-plus&theme=gotham"></a>
 </p>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/vimevim/html-web-tasarim-ve-programlama-dersi-notlari-ve-calismalari" title="vimevim"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=html-web-tasarim-ve-programlama-dersi-notlari-ve-calismalari&theme=gotham"></a>
-  <a align="left" href="https://github.com/vimevim/aspx-web-tasarim-ve-programlama-ders-notlari-ve-calismalari" title="vimevim"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=aspx-web-tasarim-ve-programlama-ders-notlari-ve-calismalari&theme=gotham"></a>
+  <a align="left" href="https://github.com/vimevim/html-web-tasarim-ve-programlama-dersi-notlari-ve-calismalari" title="vimevim"><img align="left" width="300" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=html-web-tasarim-ve-programlama-dersi-notlari-ve-calismalari&theme=gotham"></a>
+  <a align="left" href="https://github.com/vimevim/aspx-web-tasarim-ve-programlama-ders-notlari-ve-calismalari" title="vimevim"><img align="right" width="300" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=aspx-web-tasarim-ve-programlama-ders-notlari-ve-calismalari&theme=gotham"></a>
 </p>
 
 [website]: https://hasansezertasan.com
