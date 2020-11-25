@@ -6,9 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimevim" alt="vimevim" /></a> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=214ztxwfja563ezrqstowhv4a&cover_image=true&theme=natemoo-re" alt="vimevim" /></p>
 
-
-
-
 ## I'm a Student, Coder, Maker, Turkologist Candidate, and a little bit of that and a little bit of this!!
 - ⚡ Fun fact **I really love to write, i write code, i write stories, i write poetries and i draw but... not well**
 - 🔭 I'm working on my own projects.
