@@ -89,6 +89,10 @@
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
+  <a align="left" href="https://github.com/vimevim/ornekler-sorular-odevler-projeler" title="vimevim"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=ornekler-sorular-odevler-projeler&theme=gotham"></a>
+  <a align="left" href="https://github.com/vimevim/vimevim" title="vimevim"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=vimevim&theme=gotham"></a>
+</p>
+<p width="100%" align="center">
   <a align="left" href="https://github.com/vimevim/vimevim" title="vimevim"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=vimevim&theme=gotham"></a>
   <a align="left" href="https://github.com/vimevim/vimevim" title="vimevim"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vimevim&repo=vimevim&theme=gotham"></a>
 </p>
