@@ -1,7 +1,5 @@
 ### Hi! There, i'm Sezer aka [vimevim](https://hasansezertasan.com)
-<hr>
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=214ztxwfja563ezrqstowhv4a&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=214ztxwfja563ezrqstowhv4a&cover_image=true&theme=natemoo-re)]]
-<hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimevim&label=Profile%20views&color=0e75b6&style=flat" alt="vimevim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimevim" alt="vimevim" /></a> </p>
@@ -19,7 +17,7 @@
 - 📝 I regulary write articles on [my website](https://hasansezertasan.com)
 - ⚡ I really love to write, i write code, i write stories, i write poetries and i draw but... not well
 - [for details](https://octolife.now.sh/vimevim)
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=214ztxwfja563ezrqstowhv4a&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=214ztxwfja563ezrqstowhv4a&cover_image=true&theme=natemoo-re)]]
 ### Connect with me:
 
 [<img align="left" alt="hasansezertasan.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
