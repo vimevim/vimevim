@@ -15,8 +15,7 @@
 - 🥅 2020 Goals: just do something new.
 - 💬 Ask me about "hello world!"
 - 📝 I regulary write articles on [my website](https://hasansezertasan.com)
-- ⚡ I really love to write, i write code, i write stories, i write poetries and i draw but... not well
-- [for details](https://octolife.now.sh/vimevim)
+- Click to see my detailed [profile](https://octolife.now.sh/vimevim)
 
 ### Connect with me:
 
