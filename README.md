@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vimevim" target="blank"><img src="https://img.shields.io/twitter/follow/vimevim?logo=twitter&style=for-the-badge" alt="vimevim" /></a> </p><br>
 [https://spotify-github-profile.vercel.app/api/view.svg?uid=214ztxwfja563ezrqstowhv4a&cover_image=true&theme=natemoo-re)]
+
 ## I'm a Student, Coder, Maker, Turkologist Candidate, and a little bit of that and a little bit of this!!
 - ⚡ Fun fact **I really love to write, i write code, i write stories, i write poetries and i draw but... not well**
 - 🔭 I'm working on my own projects.
