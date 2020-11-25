@@ -75,15 +75,13 @@
 <hr>
 
 <p align=center>
+  <a href="https://github.com/vimevim/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimevim&langs_count=9&theme=gotham" />
+  </a>
   <a href="https://github.com/vimevim/github-readme-stats" title="Go to Source">
     <img height=175 align="left" src="https://github-readme-stats.vercel.app/api?username=vimevim&show_icons=true&theme=gotham">
   </a>
-  <a href="https://github.com/vimevim/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimevim&langs_count=9&theme=gotham" />
-</a>
 </p>
-
-<hr>
 
 [website]: https://hasansezertasan.com
 [twitter]: https://twitter.com/vimevim
